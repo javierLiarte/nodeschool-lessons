@@ -1,0 +1,3 @@
+[submodule "git-it/patchwork"]
+	path = git-it/patchwork
+	url = git@github.com:javierLiarte/patchwork.git
